@@ -37,5 +37,10 @@ where `lightcrawler-config.json` looks something like this:
   }
 }
 ```
+* Running locally
+```bash
+node cli.js  --url https://www.paypal.com/ --config config.json
+
+```
 
 Enjoy!
